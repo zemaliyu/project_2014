@@ -53,7 +53,8 @@ implementation
 {$R *.dfm}
 
 // тест для Git'a
-// добавка для теста
+// добавка для теста 
+// commit 1
 
 procedure TForm1.cxButton1Click(Sender: TObject);
 begin

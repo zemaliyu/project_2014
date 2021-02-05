@@ -55,6 +55,7 @@ implementation
 // тест для Git'a
 // добавка для теста 
 // commit 1
+// commit 2
 
 procedure TForm1.cxButton1Click(Sender: TObject);
 begin
